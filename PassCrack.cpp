@@ -3,17 +3,6 @@
 #include <string>
 using namespace std;
 
-//int ReadPositiveNumber(string mssg)
-//{
-//  int number;
-//  do
-//  {
-//	  cout << mssg<<" ";
-//	  cin >> number;
-//  } while (number < 0);
-//  return number;
-//}
-
 string EnterPassword (string mssg)
 {
 	string password;
